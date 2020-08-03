@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/rohan2907/DevOps_Microservices/)
+
 # DevOps_Microservices
 Cloud DevOps Engineer Nanodegree - Operationalize a Machine Learning Microservice API
 
