@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/adamsteff/udacity-asteff-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/adamsteff/udacity-asteff-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/rohan2907/DevOps_Microservices.svg?style=svg)](https://circleci.com/gh/rohan2907/Devops_Microservices)
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ In this project we had to operationalize a Machine Learning Microservice API whi
 
 
 ## Setup the Environment
-* Run `git clone https://github.com/adamsteff/udacity-asteff-ml-microservice-kubernetes.git`
+* Run `git clone https://github.com/rohan2907/DevOps_Microservices.git`
 * Run `cd project-ml-microservice-kubernetes`
 * Run `python3 -m venv ~/.devops`
 * Run `source ~/.devops/bin/activate`
